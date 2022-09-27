@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Estonian language
 - 📫 DM me on [Twitter](https://twitter.com/fobo66) 
 
+[![@fobo66's Holopin board](https://holopin.io/api/user/board?user=fobo66)](https://holopin.io/@fobo66)
+
 <!---
 fobo66/fobo66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
