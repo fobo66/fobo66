@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fobo66
 - 👀 I’m interested in Android development, philosophy and gaming
 - 🌱 I’m currently learning Estonian language
-- 📫 DM me on [Twitter](https://twitter.com/fobo66) 
+- 📫 DM me on [Mastodon](https://mastodon.social/@fobo66)
 
 [![@fobo66's Holopin board](https://holopin.io/api/user/board?user=fobo66)](https://holopin.io/@fobo66)
 
